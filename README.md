@@ -57,3 +57,11 @@ Multilingual RVC pretrained model trained on 1921 hours of speech and vocals acr
 
 - 32kHz ✅
 - 40kHz ✅
+
+
+## Download
+
+| Version | Link |
+|---|---|
+| 32kHz Base + Fine-Tuned | [HuggingFace ↗️](https://huggingface.co/MUSTAR/Rigel-rvc-base-pretrained-model/tree/main/Rigel_32k_Base_and_FineTuned) |
+| 40kHz Base + Fine-Tuned | [HuggingFace ↗️](https://huggingface.co/MUSTAR/Rigel-rvc-base-pretrained-model/tree/main/Rigel_40k_Base_and_FineTuned) |
